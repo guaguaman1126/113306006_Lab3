@@ -1,4 +1,4 @@
-let correctNumber = Math.floor(Math.random() * 100) + 1;
+let correctNumber = Math.floor(Math.random() * 98) + 2;
 let attempts = 7;
 let min = 1;
 let max = 100;
